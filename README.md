@@ -12,5 +12,6 @@ Here are some projects I have developed!
 * Father Ted Quotes - Several years ago, I was tasked in work with creating a Google Chrome Extension. As practice, I built this extension for fun over the course of a few hours. It receives a random quote from the Father Ted Quotes API and displays it in a popup window in the browser. It was later published to the Chrome Web Store. [Repository](https://github.com/KevLoughrey/AnEcumenicalExtension)
 
 ## Qualifications
-* BSc (Hons) in Computer Games Development, First Class Honours - Institute of Technology Carlow
-* Level 3 Award in Education and Training - NCFE
+* BSc (Hons) in Computer Games Development, First Class Honours - Institute of Technology Carlow, 2015
+* Enterprise Ireland New Frontiers (Phase One) - Technological University Dublin, 2019
+* Level 3 Award in Education and Training - NCFE, 2024
